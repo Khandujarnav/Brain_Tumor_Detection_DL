@@ -25,9 +25,9 @@ The model achieves **high recall**, which is crucial for medical applications wh
 ---
 
 ## 📂 Project Structure
-├── brain-tumor-detection.ipynb # Main notebook
-├── README.md # Documentation
-└── requirements.txt # Dependencies for running the project
+1. brain-tumor-detection.ipynb # Main notebook
+2. README.md # Documentation
+3. requirements.txt # Dependencies for running the project
 
 ---
 
